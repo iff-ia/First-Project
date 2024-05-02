@@ -1,0 +1,16 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:blueviolet;
+    font-size:40px;
+
+}
+p{
+    background-color: lightcyan;
+    padding:50px;
+}
+img{
+    margin:100px;
+}
